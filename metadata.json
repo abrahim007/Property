@@ -1,0 +1,6 @@
+{
+  "name": "Property Venture Business Plan & Presentation",
+  "description": "An interactive Bengali business planning and presentation tool for property ventures with 25 Directors and 25 Shareholders, detailing A-to-Z processes, funding models, and operational structures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
